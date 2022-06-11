@@ -5,5 +5,5 @@ applications:
    memory: 128M
    
 services:
-  - cloudappdev-cloudant
-  - cloudappdevs-nlu
+  - cloudappdev-cloudant-ty
+  - cloudappdevs-natural language understanding-79
